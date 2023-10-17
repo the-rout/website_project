@@ -1,0 +1,27 @@
+p{
+    font-size: 20px;
+}
+
+h1 {
+    color: rgb(65, 9, 233);
+}
+
+#navbar {
+
+    display:flex;
+    justify-content: space-evenly;
+}
+
+#navbar a{
+    text-decoration: none;
+    font-family:arial;
+}
+
+#navbar a:hover{
+    color:red;
+}
+
+.image {
+    display:flex;
+    width:25%;
+}
